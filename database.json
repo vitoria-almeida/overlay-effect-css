@@ -1,0 +1,25 @@
+{
+    "burgers": [
+        {
+           "id": 1,
+           "nome": "Crispy de Cebola",
+           "preco": 29.99,
+           "imagem": "/image/hamburger.png",
+           "classe": "opaque"
+        },
+        {
+            "id": 2,
+            "nome": "Smash Bacon",
+            "preco": 27.99,
+            "imagem": "/image/hamburger.png",
+            "classe": "blur"
+         },
+         {
+            "id": 3,
+            "nome": "Vegetariano",
+            "preco": 28.99,
+            "imagem": "/image/hamburger.png",
+            "classe": "color"
+         }
+    ]
+}
