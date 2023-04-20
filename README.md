@@ -3,9 +3,7 @@
 Exemplos de uso do efeito overlay;
 
 Criei uma fake api para chamar os dados do produto apresentado
-
-instalei o pacote json server: npm install -g json-server;
-criei um arquivo database.json;
-rodei API json-server database.json;
-usei fetch api e map para exibir os dados na tela;
-Projeto: github pages link
+ 1. instalei o pacote json server: npm install -g json-server;
+ 2. criei um arquivo database.json;
+ 3. rodei API json-server database.json;
+ 4. usei fetch api e map para exibir os dados na tela;
