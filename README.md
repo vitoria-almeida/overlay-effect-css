@@ -1,6 +1,6 @@
 # overlay-effect-css
 
-Exemplos de uso do efeito overlay;
+Exemplos de uso do efeito de sobreposição;
 
 Criei uma fake api para chamar os dados do produto apresentado
  1. instalei o pacote json server: npm install -g json-server;
